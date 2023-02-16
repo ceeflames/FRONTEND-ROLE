@@ -1,0 +1,59 @@
+* {
+   box-sizing: content-box;
+ }
+ body {
+   font-size: 14px;
+   background-color: #121B27;
+ }
+ .v1_127 {
+   width: 446px;
+   height: 475px;
+   background: rgba(21,20,27,1);
+   opacity: 1;
+   position: relative;
+   top: 88px;
+   left: 480px;
+   border-top-left-radius: 20px;
+   border-top-right-radius: 20px;
+   border-bottom-left-radius: 20px;
+   border-bottom-right-radius: 20px;
+   overflow: hidden;
+ }
+ .v1_133 {
+   width: 336px;
+   color: rgba(255,255,255,1);
+   position: relative;
+   top: 130px;
+   left: 20px;
+   font-family: Satoshi;
+   font-weight: Bold;
+   font-size: 24px;
+   opacity: 1;
+   text-align: center;
+ }
+ .v1_134 {
+   width: 321px;
+   color: rgba(255,255,255,0.8999999761581421);
+   position: absolute;
+   top: 280px;
+   left: 44px;
+   font-family: Satoshi;
+   font-weight: Regular;
+   font-size: 16px;
+   opacity: 1;
+   text-align: center;
+ }
+ .congrats {
+   position: relative;
+   left: 154px;
+   top: 40px;
+ }
+ a {
+   background-color: aliceblue;
+   border-radius: 50%;
+   text-decoration: none;
+   display: inline-block;
+   padding: 8px 16px;
+   font-size: 10px;
+   text-decoration: wavy;
+ }
